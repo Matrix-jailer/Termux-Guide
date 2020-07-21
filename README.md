@@ -258,3 +258,46 @@ dpkg --list
 ![IMG_20200722_010223](https://user-images.githubusercontent.com/66746496/88101244-2d702780-cbb7-11ea-8dfe-bd736bc6653b.jpg)
 
 By Using this command You will be able to see all the installed packages in your termux app.
+
+**THE END 🙅‍♂️**
+
+> I know there are Hundreds of things remaining but I included the most common commands 
+
+> If you want to contribute ❤️ just fork and open a pull request
+
+# About Author
+```
+FOUNDER OF MATRIX SOCIETY 🔍
+Coded by Matrix
+```
+```
+Noob Hacker 👨‍💻
+Basic Programmer 🔡
+Drunk Teacher 🍻
+```
+### Fork
+```
+Fork this repository by clicking on the fork button on the top of this page. 
+This will create a copy of this repository in your account.
+```
+### Contact
+```
+WhatsApp > +923130215090
+```
+```
+Email    > Matrixjailer@gmail.com
+```
+### Contribution
+```
+If you want to contribute here 
+just fork and open a pull request. 
+if you have any suggestions to improve this project 
+just open an issue.
+Found a Problem in Code ?
+Open issue asap :-)
+```
+### Donate
+BITCOIN ADDRESS
+```
+13Gau2D3gjTfCmx7dKjSyZETDH182ZS8ox
+```
