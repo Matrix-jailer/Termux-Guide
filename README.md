@@ -1,6 +1,16 @@
 # Practice Termux
 ![images](https://user-images.githubusercontent.com/66746496/88087571-90a38f00-cba2-11ea-81d0-8741b47742b5.png)
 
+## Download Termux 
+
+Download Termux for your Device
+
+![images (1)](https://user-images.githubusercontent.com/66746496/88103171-14b54100-cbba-11ea-830c-66735e1a4029.png)
+**Andorid** [Download](https://www.google.com/url?sa=t&source=web&rct=j&url=https://play.google.com/store/apps/details%3Fid%3Dcom.termux%26hl%3Den&ved=2ahUKEwjK2c_PlN_qAhXK3oUKHf_5DjMQjjgwA3oECAQQAQ&usg=AOvVaw2M6YzJbU8xcF1t0fL_d2rE)
+![images (3)](https://user-images.githubusercontent.com/66746496/88103278-37475a00-cbba-11ea-97e8-6037ae13e83b.png)
+**PC** [Download](https://sanyodigital.com/termux-for-pc/)
+
+
 **What is Termux ?**
 
 **Termux** is an Android terminal 
@@ -60,7 +70,7 @@ apt update && apt upgrade
 
 If any update is available it will ask you on the terminal if you want to upgrade or not, press Y if you want the update
 
-**storage permission**
+**storage permission 🗃️**
 
 Grant Storage Permission
 ```
@@ -70,7 +80,7 @@ termux-setup-storage
 
 now you can access your Storage and all the folder in it using termux.
 
-**Present Directory**
+**Present Directory 📂**
 
 Know Which directory you are in:
 ```
@@ -121,7 +131,7 @@ clear
 
 by typing clear in the termux you can clear all the previous results.
 
-**Create Directory**
+**Create Directory 📁**
 
 Create a folder or a directory:
 ```
