@@ -151,7 +151,7 @@ cp file-name file-path
 ```
 ![IMG_20200721_235301](https://user-images.githubusercontent.com/66746496/88094660-5e4b5f00-cbad-11ea-84af-2d287dbee7dd.jpg)
 
-You can copy files by typing cp the file name and after giving a space you can type the path where you wanna copy the file E.g: cp Word-Generix /storage/shared this will copy the Word-Generix to the storage/shared folder.
+You can copy files by typing cp the file name and after giving a space you can type the path where you wanna copy the file E.g: cp Word-Generix /sdcard this will copy the Word-Generix to the /sdcard folder.
 
 **Search Package 🔎**
 
