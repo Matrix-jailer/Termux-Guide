@@ -29,7 +29,7 @@ with the same key as the main **Termux** app
 for permissions to work 
 
 (only the main **Termux** app are 
-allowed to call the **API** methods in this app).
+allowed to call the **API** methods in this app)
 
 #### [ + ] Where are Termux files Stored ?
 
@@ -37,6 +37,10 @@ The default directory is: */data/data/com. termux/files/home* .
 Since Termux supports bash commands, 
 user can run pwd to print current working directory.
 
+### Termux Commands
+
+> Let's talk about basic commands of termux
+> You will get the complete idea about termux
 
 ```
 •Learn all Termux Basic to Advanced Commands
@@ -45,4 +49,10 @@ user can run pwd to print current working directory.
 •how these commands work on termux.
 ```
 
+### Update and Upgrade
+
+Update all the packages and dependencies installed on the system:
+```
+apt update && apt upgrade
+```
 
