@@ -56,3 +56,46 @@ Update all the packages and dependencies installed on the system:
 apt update && apt upgrade
 ```
 
+![IMG_20200721_230710](https://user-images.githubusercontent.com/66746496/88090411-fd208d00-cba6-11ea-86ef-e48972c0170e.jpg)
+
+If any update is available it will ask you on the terminal if you want to upgrade or not, press Y if you want the update
+
+**storage permission**
+
+Grant Storage Permission
+```
+termux-setup-storage
+```
+![IMG_20200721_231206](https://user-images.githubusercontent.com/66746496/88090868-a49dbf80-cba7-11ea-8cc3-00224c7d268d.jpg)
+
+now you can access your Storage and all the folder in it using termux.
+
+**Present Directory**
+
+Know Which directory you are in:
+```
+pwd
+```
+![IMG_20200721_231550](https://user-images.githubusercontent.com/66746496/88091182-25f55200-cba8-11ea-8097-3c1ba8bbc9a0.jpg)
+
+This command will tell you, your present working directory
+
+**List**
+
+List all the files and directories:
+```
+ls
+```
+![IMG_20200721_231919](https://user-images.githubusercontent.com/66746496/88091558-a6b44e00-cba8-11ea-9842-f20d57906270.jpg)
+
+this command will show you the folder and files in your current working directory.
+
+**Access/Enter Directory**
+
+Move forward in directories:
+```
+cd storage #storage as an example
+```
+![IMG_20200721_232301](https://user-images.githubusercontent.com/66746496/88091940-280be080-cba9-11ea-829f-5077ef09cd06.jpg)
+
+cd command allows you to move in a folder just type cd and the folder name you wanna move here I am moving in storage.
